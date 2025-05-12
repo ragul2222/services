@@ -1,0 +1,3 @@
+[submodule "chat-ai-module"]
+	path = chat-ai-module
+	url = https://github.com/ragul2222/chat-ai-module.git
